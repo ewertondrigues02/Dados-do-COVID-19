@@ -1,4 +1,4 @@
-# Dados doCOVID-19
+# Dados do COVID-19
 
 Análise exploratória dos dados do COVID-19 - de 22 de Janeiro de 2020 a 27 de Julho de 2020
 Análise esploratória dos dados do COVID-19, tanto das mortes em cada páis como os paises atingidos no período de 22 de Janeiro de 2020 á 27 de Julho de 2020 ou seja 187 dias analisados com dados disponiveis para análise.

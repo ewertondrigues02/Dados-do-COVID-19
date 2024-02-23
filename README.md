@@ -16,7 +16,7 @@ O Total de mortes confirmadas causadas pelo COVID-19 foi de **43.384.903** e os 
   *  Em 4° lugar está a **Italia com 3.707.717** de mortes.
   *  Em 5° lugar está a **França com 3.048.524** de mortes.
 
-O Total de mortes causados pelo COVID-19 foi mais de 43.384.903 de mortes no período analisado.
+O Total de mortes causados pelo COVID-19 foi mais de **43.384.903** de mortes no período analisado.
 
 ### OBS: Esse número é muito maior pois o COVID-19 não durou apenas ao dias analisados.
 

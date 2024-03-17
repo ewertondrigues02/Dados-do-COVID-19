@@ -18,7 +18,7 @@ O Total de mortes confirmadas causadas pelo COVID-19 foi de **43.384.903** e os 
 
 O Total de mortes causados pelo COVID-19 foi mais de **43.384.903** de mortes no período analisado.
 
-### OBS: Esse número é muito maior pois o COVID-19 não durou apenas ao dias analisados.
+### OBS: Esse número é muito maior pois as mortes causados pelo COVID-19 não durou apenas ao dias analisados.
 
 
 # Veja o Grafico do Total de mortes por País. 
